@@ -1,0 +1,6 @@
+Heart_rate,acceleration,label
+72,0.5,normal
+85,0.6,normal
+110,2.8,stress
+120,3.2,fall
+95,1.5,stress
